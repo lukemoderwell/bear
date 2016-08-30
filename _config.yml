@@ -32,6 +32,7 @@ github_username: changeme
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 gems:
 - jekyll-seo-tag
